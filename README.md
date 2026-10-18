@@ -1,20 +1,28 @@
+# Merhaba, ben Kerem 👋
 
+Python ve TypeScript ile araçlar yazıyorum; son zamanlarda **coding agent'lar için yerel (local-first) karar ve tarayıcı otomasyonu** üzerine çalışıyorum. Daha önce otonom su altı araçları (AUV) için arayüzler ve Unity 3D ortamları da yaptım.
 
+## 🔭 Şu an üzerinde çalıştığım
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- **[agent-decision-kit](https://github.com/krmdl/agent-decision-kit)**: Coding agent döngüleri için MCP sunucusu ve CLI. Hangi tarayıcı aksiyonu, hangi dosya, hangi bağlam gibi küçük kararları yerel modelle verir. (TypeScript, Apache-2.0)
+- **[MARIANA-GUI](https://github.com/krmdl/MARIANA-GUI)**: AUV'ler için PyQt5 arayüzü
+- **[Portfolyo](https://krmdl.github.io)**: Unity ortamları ve modüler 3D propslar
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krmdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krmdl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krmdl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🤝 Açık kaynak
 
+Katkı yaptığım projeler (merge edilen PR'lar geldikçe buraya eklenecek):
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerem__dal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Kerem2894) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kerem__dal) 
+- _henüz yok, ilk PR yolda_
 
-  ## Paypal
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kerem2894) 
+## 💻 Teknolojiler
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## 🌐 İletişim
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kerem__dal)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerem__dal)
