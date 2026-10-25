@@ -1,14 +1,12 @@
 # Kerem Dal
 
-I build systems. 
+I build scalable AI architectures and automated systems.
 
-My work revolves around high-leverage technical decision-making and designing architectures that scale. Currently, my focus is on local-first AI decision loops and browser automation for coding agents. 
+My engineering approach is grounded in first-principles: I design backend infrastructures that turn complex machine learning models into pragmatic, high-leverage tools. I specialize in multi-agent orchestration, serverless GPU deployments, and computer vision pipelines.
 
-Previously, I built control interfaces and 3D simulation environments for autonomous underwater vehicles (AUVs). Whether it is deep-sea robotics or agentic software workflows, I care about engineering robust, autonomous systems from the ground up.
-
-**Active Work**
-* **agent-decision-kit:** An MCP server offloading micro-decisions in agent loops to local models.
-* **MARIANA-GUI:** Control systems and interfaces for AUV operations.
+**Active Systems**
+* **Bashvision:** A generative AI orchestration platform. I architected the backend leveraging RunPod serverless infrastructure and API routing to automate end-to-end video, 3D, and media generation workflows.
+* **VisionAir:** An AI-driven industrial safety monitoring system utilizing optimized object detection architectures for real-time video anomaly analysis on factory floors.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kerem__dal)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kerem__dal)
